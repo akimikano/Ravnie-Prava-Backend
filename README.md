@@ -18,3 +18,9 @@ by the way, you need python 3.7
 4) create db by command: python manage.py migrate
 
 5) launch project by command: python manage.py runserver
+
+To come into admin page create admin by typing: python manage.py createsuperuser
+
+than go to http://127.0.0.1:8000/admin/ and login
+
+by the way, in last modification we added statistics 
